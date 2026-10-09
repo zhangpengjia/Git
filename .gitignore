@@ -55,3 +55,6 @@ desktop.ini
 # ============ 本地环境 ============
 *.local
 *.log
+
+# ============ WorkBuddy 项目数据 ============
+.workbuddy/
